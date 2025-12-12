@@ -71,11 +71,6 @@ This repo showcases my understanding of:
 
 This serves as the base for more advanced GIS work in Python.
 
-```
-
----
-
----
 
 ## 📄 data/README.md
 ```
