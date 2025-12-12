@@ -1,3 +1,5 @@
+![image alt](https://github.com/ayushmorya/GIS-Python-First-Rep/blob/8c150988a32956e082e3d7d10e0fc8667c61ab35/Screenshot%202025-12-12%20165839.png)
+
 # GIS Processing with Python
 
 This repository contains my first hands‑on GIS workflow using Python.  
